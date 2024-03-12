@@ -1340,6 +1340,57 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "sprites": {},
+      "id": 151
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "sprites": {},
+      "id": 152
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "sprites": {},
+      "id": 153
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "sprites": {},
+      "id": 154
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+      },
+      "id": 155
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+      },
+      "id": 156
+    },
+    {
+      "name": "Charmander",
+      "hp": "39",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+      },
+      "id": 157
     }
   ]
 }
